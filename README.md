@@ -1,12 +1,5 @@
 # 📈 Demand Forecast Ensemble
 
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3.9+-blue.svg" alt="Python 3.9+">
-  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License">
-  <img src="https://img.shields.io/badge/supply--chain-forecasting-orange.svg" alt="forecasting">
-  <img src="https://img.shields.io/badge/status-production--ready-brightgreen.svg" alt="Production Ready">
-  <img src="https://img.shields.io/badge/PRs-welcome-blue.svg" alt="PRs Welcome">
-</p>
 
 > **Ensemble demand forecasting combining ARIMA, exponential smoothing, XGBoost, and LSTM with automated model selection and optimal weighting**
 
@@ -374,38 +367,6 @@ Contributions welcome! Please:
 3. Commit your changes (`git commit -m 'Add your feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
-
----
-
----
-
-## 👤 About the Author
-
-<table>
-<tr>
-<td width="120" valign="top">
-
-**Virbahu Jain**
-
-</td>
-<td>
-
-**Founder & CEO, [Quantisage](https://quantisage.com)**
-
-> *Building the AI Operating System for Scope 3 emissions management and supply chain decarbonization.*
-
-</td>
-</tr>
-</table>
-
-| | |
-|---|---|
-| 🎓 **Education** | MBA, Kellogg School of Management, Northwestern University |
-| 🏭 **Experience** | 20+ years across manufacturing, life sciences, energy & public sector |
-| 🌍 **Global Reach** | Supply chain operations across five continents |
-| 📝 **Research** | Peer-reviewed publications on AI in sustainable supply chains |
-| 🔬 **Patents** | IoT and AI solutions for manufacturing and logistics |
-| 🏛️ **Advisory** | Former CIO advisor; APICS, CSCMP, ISM member |
 
 ---
 
